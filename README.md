@@ -1,5 +1,5 @@
 <!-- <h1 align="center">
-  <a href="https://github.com/tuhinpal/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
+  <a href="https://github.com/jibril-masir/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
   <br>
 <b>Whatsbot</b>
 </h1>
